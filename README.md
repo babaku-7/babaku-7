@@ -13,7 +13,7 @@
 ## `> whoami`
 
 ```text
-Name       : Tio Wardhana
+Name       : babaku
 Role       : Electrical Engineering Student
 Focus      : Software • Electronics • IoT • Automation
 Currently  : Learning, building, experimenting.
