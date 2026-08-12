@@ -1,6 +1,6 @@
 <div align="center">
 
-# `TIO WARDHANA`
+# `BABAKU`
 
 ### ⚡ Electrical Engineering Student · Developer · IoT Enthusiast
 
@@ -19,9 +19,7 @@ Focus      : Software • Electronics • IoT • Automation
 Currently  : Learning, building, experimenting.
 ```
 
-I like combining **software and electronics** to turn ideas into real-world projects.
 
-My interests are mainly around **IoT, embedded systems, automation, AI, networking, and electrical engineering**.
 
 ---
 
@@ -67,40 +65,6 @@ My interests are mainly around **IoT, embedded systems, automation, AI, networki
 
 ---
 
-## `> github_stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=babaku-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babaku-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" height="180"/>
-
-</div>
-
----
-
-## `> activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=babaku-7&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## `> currently_learning`
-
-```text
-[████████████████░░░░] Embedded Systems
-[███████████████░░░░░] IoT
-[██████████████░░░░░░] Python
-[████████████░░░░░░░░] AI & Automation
-[███████████░░░░░░░░░] Networking
-```
-
----
-
 ## `> philosophy`
 
 <div align="center">
@@ -109,16 +73,4 @@ My interests are mainly around **IoT, embedded systems, automation, AI, networki
 
 </div>
 
----
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=babaku-7&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-**Thanks for visiting.**
-
-`© Tio Wardhana`
-
-</div>
