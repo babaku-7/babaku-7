@@ -1,17 +1,14 @@
 <div align="center">
 
-# `BABAKU`
+# MANDI DULU
 
-### MANDI DULU
+### MAU BERAK
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+with+code+%26+electronics;Exploring+IoT+%26+Embedded+Systems;Turning+ideas+into+working+projects" />
 
 </div>
 
 ---
-
-
-## `> tech_stack`
 
 <div align="center">
 
