@@ -2,7 +2,7 @@
 
 # `BABAKU`
 
-### ⚡ Electrical Engineering Student · Developer · IoT Enthusiast
+### MANDI DULU
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+with+code+%26+electronics;Exploring+IoT+%26+Embedded+Systems;Turning+ideas+into+working+projects" />
 
@@ -10,18 +10,6 @@
 
 ---
 
-## `> whoami`
-
-```text
-Name       : babaku
-Role       : Electrical Engineering Student
-Focus      : Software • Electronics • IoT • Automation
-Currently  : Learning, building, experimenting.
-```
-
-
-
----
 
 ## `> tech_stack`
 
@@ -39,38 +27,6 @@ Currently  : Learning, building, experimenting.
 
 ---
 
-## `> current_projects`
 
-```text
-┌─ IoT & Embedded Systems
-│  ├─ ESP32
-│  ├─ Sensor Monitoring
-│  ├─ Automation
-│  └─ Modbus / PZEM
-│
-├─ Smart Energy
-│  ├─ Solar Energy Monitoring
-│  ├─ PLTS
-│  └─ Electrical Measurement
-│
-├─ AI & Automation
-│  ├─ AI Integration
-│  ├─ Discord Automation
-│  └─ Experimental Projects
-│
-└─ Web Development
-   ├─ Web Applications
-   └─ Personal Projects
-```
-
----
-
-## `> philosophy`
-
-<div align="center">
-
-### `BUILD → BREAK → DEBUG → LEARN → BUILD BETTER`
-
-</div>
 
 
