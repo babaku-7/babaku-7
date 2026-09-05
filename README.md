@@ -12,7 +12,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c" />
 
 </div>
 
